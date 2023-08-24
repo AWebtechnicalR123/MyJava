@@ -1,0 +1,80 @@
+@charset "ISO-8859-1";
+#nav1{
+	margin: 2px;
+	border: 5px solid red;
+	
+	padding: 2px;
+	background-color: goldenrod;
+	color: royalblue;
+	text-align: center;
+	font-size: 22px;
+}
+
+img{
+	border: 5px groove yellow;
+}
+
+#ins1{
+	margin: 2px;
+	border: 5px solid red;
+	padding: 2px;
+	background-color: goldenrod;
+	color: royalblue;
+	text-align: left;
+	font-size: 22px;
+	
+}
+#serv1{
+	margin: 2px;
+	border: 2px solid red;
+	padding: 2px;
+	background-color: goldenrod;
+	color: royalblue;
+	text-align: left;
+	font-size: 22px;
+	width: 50%;
+	float: left;
+	
+	
+}
+
+
+
+table, td, th{
+	margin: 2px;
+	border: 2px solid;
+	color:  red;
+	width: 40%;
+	
+}
+label{
+	margin: 2px;
+	border: 2px solid red;
+	display: block;
+}
+input{
+	border: 2px solid;
+	border-color: blue;
+	display: block;
+	margin: 5px;
+}
+
+.brd1{
+	border: 2px solid green;
+	margin: 5px;
+	padding: 5px;
+	height: 15px;
+}
+
+.bd2{
+	display: inline;
+	border: none;
+}
+
+#serv{
+	padding-bottom: 200px;
+	border: 2px solid red;
+}
+#btn{
+	display: inline;
+}

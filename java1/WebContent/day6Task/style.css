@@ -1,0 +1,33 @@
+
+.crds{
+    float: right;
+    width: 16%;
+    border: 2px solid red;
+    margin-bottom: 10px;
+    margin-left: 6px;
+    margin-top:0;
+
+}
+#dv1{
+
+    border: 2px solid red;
+    height:230px
+    
+}
+#dv2{
+    border: 2px solid red;
+    height:330px;
+    margin: 5px;
+}
+.md{
+    
+    border: 2px solid red;
+    width: 20%;
+    float: right;
+    margin-right: 150px;
+    
+}
+img{
+    width: 300px;
+}
+
